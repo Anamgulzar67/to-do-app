@@ -58,7 +58,7 @@ const clearTasks = (): void => {
          onChange={(e) => setTaskInput(e.target.value)}
           placeholder="Add or update a task"
           />
-        <button type="submit">Add/Update Task</button>
+        <button type="submit">Add / Update Task</button>
        </form>
  
        {/* Display the list of tasks */}
